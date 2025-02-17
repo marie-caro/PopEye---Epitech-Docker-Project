@@ -13,5 +13,4 @@ Understand the basics of docker:
   - build images
 
 # Results
-From the final tests, my shell passed 91.5% of the tests:
 ![Moulinette](ReadMeImg/Popeye_Results.png)
